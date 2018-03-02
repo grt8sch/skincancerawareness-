@@ -1,1 +1,14 @@
-
+.nav-a{
+  padding:10px 20px;
+  background-color:grey;
+  text-decoration:none;
+  color:white;
+}
+.nav-a:hover{
+  background-color:white;
+  color: black;
+}
+nav{
+  position:fixed;
+  background-color:grey;
+}
